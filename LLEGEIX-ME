@@ -1,0 +1,18 @@
+1.-  git branch branca00
+     git checkout branca00
+     git branch
+
+
+5.- git checkout main
+    git status
+    git log main
+
+7.- git checkout branca00
+
+10b.- git merge branca00
+
+
+12.- git push origin main
+     git log main
+
+14a.- git push origin branca01
